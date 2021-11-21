@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say voice="alice" language="it-IT">Prova di chiamata con Twilio</Say>
+    <Say>Prova di chiamata con Twilio</Say>
 </Response>
