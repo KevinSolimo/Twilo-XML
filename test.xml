@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say language="it" voice="woman">Prova di Messaggio</Say>
+    <Say voice="alice">Test Message</Say>
 </Response>
